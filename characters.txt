@@ -1,3 +1,5 @@
+CHARACTERS
++++++++++++++++++++
 Nick - Manager
 Tom - General Manager
 Sakhi - Ops Manager
